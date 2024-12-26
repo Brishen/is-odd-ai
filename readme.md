@@ -83,3 +83,7 @@ Feel free to fork the repository and submit pull requests for improvements or bu
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Disclaimer
+
+This project is stupid. If you use it to build serious things, I will think you are stupid.
